@@ -1,0 +1,1 @@
+This is a software made to remap keys, change rgb light setting and save diffrent profile configs for your keyboard, made using QT desginer and using the QMK tool kit. This will allow users to have full freedom to customize our keyboards with no limits
